@@ -1,6 +1,6 @@
 # 🕒 Perl Script: Convert ISO Date to Unix Epoch Timestamp
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![GitHub License](https://img.shields.io/github/license/tclahr/date_to_epoch.pl?color=blue)](https://github.com/tclahr/date_to_epoch.pl/blob/main/LICENSE)
 
 ## Overview
 
