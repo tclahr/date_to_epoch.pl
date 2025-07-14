@@ -31,12 +31,10 @@ $ perl date_to_epoch.pl 2024-12-25
 - Perl 5 (standard on most Unix-like systems)
 - No additional modules required beyond `Time::Local` (core Perl module)
 
-## 📝 License
-
-This project is licensed under the [Apache License 2.0](LICENSE).
-
----
-
 ## 🤝 Contributing
 
 Feel free to open issues or submit pull requests to improve the script, add new features, or support other date formats.
+
+## 📝 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
