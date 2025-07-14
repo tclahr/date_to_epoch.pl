@@ -26,12 +26,6 @@ $ perl date_to_epoch.pl 2024-12-25
 1735084800
 ```
 
-### Help
-
-```bash
-$ perl date_to_epoch.pl --help
-```
-
 ## 🛠️ Requirements
 
 - Perl 5 (standard on most Unix-like systems)
